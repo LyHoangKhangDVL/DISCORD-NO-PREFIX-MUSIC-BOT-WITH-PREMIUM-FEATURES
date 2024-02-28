@@ -17,8 +17,8 @@ export default class OrasConfig extends Object {
     constructor() {
         super();
         this.token =
-            "MTIwMzY0NjYxOTUyMjgzNDQ1Mg.GbrzLM.eDyqsxDeQoP47aQc8cFted8eThVArHwQrrKQ38";
-        this.botid = "1203646619522834452"
+            "MTIwMzc2OTA1NTkxMjI2NzgwNw.GrXOsx.pTKVwCK-s8dEmnJnXatlW-AZ7Ek3xGA9_7G1kw";
+        this.botid = "1203769055912267807"
         this.prefix = ".";
         this.nodes = [
             {
@@ -37,17 +37,17 @@ export default class OrasConfig extends Object {
         this.voteApi =
             "";
         this.webhooks = {
-            guildCreate: "https://discord.com/api/webhooks/1198586067507478599/-5E0UX35Mv_wMQQdYKkKnT57OjE0k34TRe0mb-1ELJLGA9-ARvFj61vhFC5b4hAKT9RW",
-            guildDelete: "https://discord.com/api/webhooks/1198586067507478599/-5E0UX35Mv_wMQQdYKkKnT57OjE0k34TRe0mb-1ELJLGA9-ARvFj61vhFC5b4hAKT9RW",
-            Cmds: "https://discord.com/api/webhooks/1198586067507478599/-5E0UX35Mv_wMQQdYKkKnT57OjE0k34TRe0mb-1ELJLGA9-ARvFj61vhFC5b4hAKT9RW",
+            guildCreate: "https://discord.com/api/webhooks/1212461113804070932/Q7FsCe-NoC9bEWEJcLzA_i1qJ5iISRFfDKOrnOHRsuHY4t9VF57X7uyO1kTlkWP6T7kn",
+            guildDelete: "https://discord.com/api/webhooks/1212461113804070932/Q7FsCe-NoC9bEWEJcLzA_i1qJ5iISRFfDKOrnOHRsuHY4t9VF57X7uyO1kTlkWP6T7kn",
+            Cmds: "https://discord.com/api/webhooks/1212461113804070932/Q7FsCe-NoC9bEWEJcLzA_i1qJ5iISRFfDKOrnOHRsuHY4t9VF57X7uyO1kTlkWP6T7kn",
         };
-        this.server = "https://discord.gg/Yjt2EPmcWG";
-        this.botinvite = `https://discord.com/api/oauth2/authorize?client_id=1203646619522834452&permissions=8&scope=bot+applications.commands`;
+        this.server = "https://discord.gg/wZHjUG4AYC";
+        this.botinvite = `https://discord.com/oauth2/authorize?client_id=1203769055912267807&permissions=8&scope=bot`;
         this.spotiId = "731ac5bf0603411f80ac446f5c02e290";
         this.spotiSecret = "cd16a34c385b4fa5915abd596fd4e480";
-        this.owners = ["1173547185758015498"];
+        this.owners = ["1053871662283628615"];
         this.color = "#45FFCA";
-        this.supportId = "1173554067910438912"; //Server Id
+        this.supportId = "1203768106980343868"; //Server Id
         this.spotiNodes = [
             {
                 id: `Kronix`,
@@ -64,9 +64,9 @@ export default class OrasConfig extends Object {
               secure: false,
           }, // Dont Change The Name Of Nodes
         ];
-        this.voteUrl = "https://top.gg/bot/1203646619522834452/vote";
+        this.voteUrl = "deo co link vote dau(((=";
         this.setupBgLink =
-            "https://media.discordapp.net/attachments/1162795987014787162/1205424655679234088/gg.png?ex=65d85231&is=65c5dd31&hm=9746958b5c53418205d11bc9170b0c32b911e484bef10e2b3e26d530b37efd84&=&format=webp&quality=lossless&width=1440&height=405";
+            "https://media.discordapp.net/attachments/1212461014117785670/1212461887313154058/qrphong.jpg?ex=65f1ec20&is=65df7720&hm=2332a5a8e3d5630de00a91493691d051cf31615289909972beb35f3d298a451a&";
     }
 }
 //# sourceMappingURL=Config.js.map
